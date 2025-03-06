@@ -8,9 +8,9 @@ async function products (){
         }, 2000)
     }).then(()=>{
         setTimeout(()=>{
-            console.log("hello")
+            console.log("hello");
             
-        },2000)
+        },2000);
     })
 
     console.log("Please wait data is loading...");
